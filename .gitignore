@@ -1,0 +1,11 @@
+# Project exclude paths
+/ConfigClient/target/
+/ConfigServer/target/
+/EurekaClientProvider/target/
+/EurekaClientProvider2/target/
+/EurekaServer/target/
+/FeignApplication/target/
+/HystrixApplication/target/
+/RestTemplateApplication/target/
+/RibbonApplication/target/
+/ZuulApplication/target/
